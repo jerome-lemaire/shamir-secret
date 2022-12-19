@@ -1,0 +1,1 @@
+{"mappings":"AAAAA,EAAI,SAASC,GACT,OAAOC,SAASC,iBAAiBF,GAAU,EAC/C","sources":["src/js/selector.js"],"sourcesContent":["$ = function(selector) {\n    return document.querySelectorAll(selector)[0];\n}\n"],"names":["$","selector","document","querySelectorAll"],"version":3,"file":"index.38a1a510.js.map"}
